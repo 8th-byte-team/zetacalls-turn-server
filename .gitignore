@@ -1,0 +1,6 @@
+*.cfg
+*.bat
+*.exe
+*.eslintcache
+application-build-*
+.DS_Store
